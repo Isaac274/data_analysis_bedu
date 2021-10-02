@@ -1,0 +1,20 @@
+producto_id,nombre_producto,marca,precio_unitario,categoria_id
+101,silla escritorio ,Office furniture,1500,2001
+102,comedor de madera,Todo de madera,20000,2002
+103,jeans mezclilla,OGGI,600,3001
+104,tenis,Adidas,2000,4001
+105,playera tipo ,Lacoste,400,3001
+106,camisa casual ,LOB,600,3001
+107,laptop portatil ,Dell,18000,5001
+108,Audifonos inalambricos ,Xiaomi,2500,5001
+109,chamarra piel modelo ,Calvin Klein,1500,3001
+110,smart tv 40 pulgadas,Samsung,10500,5001
+111,PC de escritorio ,Hp,16700,5001
+112,ventilador tipo T,Panasonic,1500,5001
+113,archivero modelo XT,Office furniture,3500,5001
+114,Licuadora 3 vel.,Oster,1500,5001
+115,Microondas ,Panasonic,2000,5001
+116,Sala modelo TS,Todo de madera,25000,2002
+117,Smartphone samsung ,Samsung,15000,5001
+118,estufa modelo XT,Mabe,10000,5001
+119,lavadora 15kg mod S,Samsung,18000,5001

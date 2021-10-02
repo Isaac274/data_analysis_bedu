@@ -1,0 +1,31 @@
+direccion_id,cliente_id,ciudad,estado,domicilio,pais
+3000001,2000000001,Zapopan,Jalisco,calle #1,Mexico
+3000002,2000000002,Zapopan,Jalisco,calle #2,Mexico
+3000003,2000000003,Zapopan,Jalisco,calle #3,Mexico
+3000004,2000000004,Zapopan,Jalisco,calle #4,Mexico
+3000005,2000000005,Zapopan,Jalisco,calle #5,Mexico
+3000006,2000000006,Zapopan,Jalisco,calle #6,Mexico
+3000007,2000000007,Zapopan,Jalisco,calle #7,Mexico
+3000008,2000000008,Culiacan,Sinaloa,calle #8,Mexico
+3000009,2000000009,Culiacan,Sinaloa,calle #9,Mexico
+3000010,2000000010,Culiacan,Sinaloa,calle #10,Mexico
+3000011,2000000011,Culiacan,Sinaloa,calle #11,Mexico
+3000012,2000000012,Tepic,Nayarit,calle #12,Mexico
+3000013,2000000013,Guadalajara,Jalisco,calle #13,Mexico
+3000014,2000000014,Guadalajara,Jalisco,calle #14,Mexico
+3000015,2000000015,Guadalajara,Jalisco,calle #15,Mexico
+3000016,2000000016,Guadalajara,Jalisco,calle #16,Mexico
+3000017,2000000017,Morelia,Michoacan,calle #17,Mexico
+3000018,2000000018,Morelia,Michoacan,calle #18,Mexico
+3000019,2000000019,Morelia,Michoacan,calle #19,Mexico
+3000020,2000000020,Tlaquepaque,Jalisco,calle #20,Mexico
+3000021,2000000021,Tlaquepaque,Jalisco,calle #21,Mexico
+3000022,2000000022,Tlaquepaque,Jalisco,calle #22,Mexico
+3000023,2000000023,Playa del carmen,Quintana Roo,calle #23,Mexico
+3000024,2000000024,Playa del carmen,Quintana Roo,calle #24,Mexico
+3000025,2000000025,Playa del carmen,Quintana Roo,calle #25,Mexico
+3000026,2000000026,Playa del carmen,Quintana Roo,calle #26,Mexico
+3000027,2000000027,ciudad de mexico,ciudad de mexico,calle #27,Mexico
+3000028,2000000028,ciudad de mexico,ciudad de mexico,calle #28,Mexico
+3000029,2000000029,ciudad de mexico,ciudad de mexico,calle #29,Mexico
+3000030,2000000030,ciudad de mexico,ciudad de mexico,calle #30,Mexico
